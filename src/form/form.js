@@ -32,14 +32,19 @@ export default class Form extends Component {
       headers: { Authorization: "joaopaulong@hotmail.com" },
     };
 
-    axios.post(url, data, options)
-      .then((r) => {
-            console.log(r);
-                alert('Cadastro realizado com sucesso!');
-      })
-      .catch((error) => {
-        console.log("error", error);
-      });
+    if (this.state.nome.length > 3 && this.state.email.length > 3) {
+      axios
+        .post(url, data, options)
+        .then((r) => {
+          console.log(r);
+          alert("Cadastro realizado com sucesso!");
+        })
+        .catch((error) => {
+          console.log("error", error);
+        });
+    } else {
+      alert("Nome ou Email inválidos (Mínimo 4 Caracteres)");
+    }
 
     e.preventDefault();
   }
@@ -61,7 +66,7 @@ export default class Form extends Component {
               onChange={(e) => this.setState({ nome: e.target.value })}
             />
 
-            <input 
+            <input
               value={this.state.email}
               type="email"
               placeholder="  E-mail"

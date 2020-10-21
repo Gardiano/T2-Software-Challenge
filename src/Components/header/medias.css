@@ -1,0 +1,73 @@
+
+/* Header @medias */
+
+
+@media (max-width: 700px) {
+.menuMobile {
+width: 50px;
+height: 50px;
+display: flex;
+margin-left: 100px;
+}
+
+.menuMobile-content {
+width: 300px;
+height: 500px;
+
+z-index: 9999;
+position: relative;
+margin-left: 100px;
+display: flex;
+}
+
+.header-box {
+width: 100%;
+height: 80px;
+border-top: 1px solid transparent;
+background-color:whitesmoke;
+margin: auto;
+display: flex;
+border-bottom: 1px solid rgba(233, 233, 233, 0.849);
+}
+
+.logo {
+    width: 100%;
+}
+
+/* menu desktop */
+.menu {
+    display: none;
+}
+/* menu Mobile */
+.menuMobile-button {
+    width: 70px;
+    height: 25px;
+    border-radius: 5px;
+    float: right;
+   margin-top: 18px;
+   margin-right: 20px;
+    display: block;
+    border: none;
+    outline: none;
+    background-color: purple;
+    color: whitesmoke;
+}
+.menuMobile {
+width: 100%;
+height: 300px;   
+display: block;
+position: absolute;
+z-index: 9999;
+margin: auto;
+background-color: whitesmoke;
+margin-top: 82px;
+}
+
+.menuMobile p {
+text-align: center;
+margin-top: 50px;
+color: purple;
+font-weight: 500;
+}
+
+}

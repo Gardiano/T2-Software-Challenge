@@ -1,0 +1,15 @@
+
+
+.footer-box {
+    width: 100%;
+    height: 100px;
+    background-color:#5f126d;
+    color: whitesmoke;
+    margin: auto;
+    display: flex;
+}
+
+p {
+    margin: auto;
+    display: block;
+}

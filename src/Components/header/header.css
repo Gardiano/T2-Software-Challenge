@@ -1,0 +1,56 @@
+
+.header-box {
+width: 100%;
+height: 80px;
+border-top: 1px solid transparent;
+background-color:whitesmoke;
+margin: auto;
+display: block;
+border-bottom: 1px solid rgba(233, 233, 233, 0.849);
+}
+
+.menuMobile-button {
+display: none;
+}
+
+.logo {
+width: 50%;
+height: 60px;
+color: purple;
+margin-top: 12px;
+padding-left: 50px;
+text-align: left;
+line-height: 1.5;
+font-size: 32px;
+float: left;
+font-weight: 500;
+}
+
+.menu {
+width: 20%;
+height: 60px;
+float: left;
+display: flex;
+margin-top: 12px;
+}
+
+.fbIcon i {
+font-size: 32px;
+margin-top: -5px;
+}
+
+.menu p {
+height: 30px;
+float: left;
+display: block;
+margin-top: 18px;
+text-align: left;
+color: purple;
+font-weight: 500;
+margin-left: 10px;
+}
+
+a {
+text-decoration: none;
+color: purple;
+}

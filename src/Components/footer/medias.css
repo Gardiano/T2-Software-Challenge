@@ -1,0 +1,10 @@
+
+/* footer @medias */
+
+@media (max-width: 700px) {
+    p {
+        margin: auto;
+        display: block;
+        font-size: 14px;
+    }
+}

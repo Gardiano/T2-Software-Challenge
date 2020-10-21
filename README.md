@@ -1,68 +1,52 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# T2-Software-Challenge
+Teste para vaga desenvolvedor Front-End, para empresa T2 Software.
 
-## Available Scripts
+### 🛠 Tecnologias
 
-In the project directory, you can run:
+As seguintes ferramentas foram usadas na construção do projeto:
 
-### `yarn start`
+- [axios](https://www.npmjs.com/package/axios)
+- [ReactJS](https://pt-br.reactjs.org/)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Features
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- [x] Cadastro de email
+- [ ] Cadastro de cliente
+- [ ] Cadastro de produtos
 
-### `yarn test`
+### Pré-requisitos
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Yarn](https://classic.yarnpkg.com/pt-BR/), [Node.js](https://nodejs.org/en/). 
 
-### `yarn build`
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🎲 Rodando o App 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+```bash
+# Clone este repositório
+$ git clone <  >
+$ git clone <https://github.com/Gardiano/T2-Software-Challenge.git>
+# Acesse a pasta do projeto no terminal/cmd
+$ cd nlw1
+$ cd T2 Software
+# Vá para a pasta app.
+$ cd app
+# Agora use o comando yarn install para adicionas todas as dependências do projeto.
+$ cd app
+# Vá para a pasta server
+$ cd server
+# depois vá para a pasta...
+$ cd t2app
+# Instale as dependências
+$ npm install
+# agora abra o projeto.
+$ code .
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
+# use o comendo abaixo para iniciar o projeto.
+$ yarn start
+# NOTA:
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+```

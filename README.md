@@ -27,7 +27,7 @@ Além disto é bom ter um editor para trabalhar com o código, como por exemplo:
 
 ```bash
 
-# Abrir o CMD e Clonar este repositório diretamente para sua área de trabalho (desktop)
+# Abrir o CMD para Clonar este repositório diretamente para sua área de trabalho (desktop)
 $ cd desktop
 
 $ git clone https://github.com/Gardiano/T2-Software-Challenge.git

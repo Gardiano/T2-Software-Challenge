@@ -39,7 +39,7 @@ $ cd T2-Software-Challenge
 # instale as dependências
 $ npm install
 
-# vamos abrir nosso projeto no [VSCode](https://code.visualstudio.com/)
+# vamos abrir nosso projeto no [VSCode]
 $ code .
 
 # vamos rodar nossa aplicação.

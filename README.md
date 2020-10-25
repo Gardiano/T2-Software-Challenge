@@ -48,3 +48,14 @@ $ yarn start
 # NOTA:
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
+
+
+### 💻 Desktop
+
+![teste1](https://user-images.githubusercontent.com/46694429/97101792-fceccd80-167e-11eb-8f7a-7896a0baf94a.png)
+
+![teste2](https://user-images.githubusercontent.com/46694429/97101796-0413db80-167f-11eb-9763-7267b9704f79.png)
+
+### 📱 Mobile First
+
+![mobile1](https://user-images.githubusercontent.com/46694429/97101811-24dc3100-167f-11eb-9001-2ef5335b16f3.png)![mobile2](https://user-images.githubusercontent.com/46694429/97101813-27d72180-167f-11eb-90a6-3dbcc59e5cb5.png)

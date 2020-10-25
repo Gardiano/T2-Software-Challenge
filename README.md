@@ -23,6 +23,17 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 Além disto é bom ter um editor para trabalhar com o código, como por exemplo: [VSCode](https://code.visualstudio.com/) 
 
+### 💻 Desktop
+
+![teste1](https://user-images.githubusercontent.com/46694429/97101792-fceccd80-167e-11eb-8f7a-7896a0baf94a.png)
+
+![teste2](https://user-images.githubusercontent.com/46694429/97101796-0413db80-167f-11eb-9763-7267b9704f79.png)
+
+### 📱 Mobile First
+
+![mobile01](https://user-images.githubusercontent.com/46694429/97102011-a7b1bb80-1680-11eb-8c54-83b64825bce7.png)![mobile02](https://user-images.githubusercontent.com/46694429/97102014-a8e2e880-1680-11eb-9919-3fae6096d401.png)
+
+
 ### 🎲 Rodando o App 
 
 ```bash
@@ -48,14 +59,3 @@ $ yarn start
 # NOTA:
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
-
-
-### 💻 Desktop
-
-![teste1](https://user-images.githubusercontent.com/46694429/97101792-fceccd80-167e-11eb-8f7a-7896a0baf94a.png)
-
-![teste2](https://user-images.githubusercontent.com/46694429/97101796-0413db80-167f-11eb-9763-7267b9704f79.png)
-
-### 📱 Mobile First
-
-![mobile1](https://user-images.githubusercontent.com/46694429/97101811-24dc3100-167f-11eb-9001-2ef5335b16f3.png)![mobile2](https://user-images.githubusercontent.com/46694429/97101813-27d72180-167f-11eb-90a6-3dbcc59e5cb5.png)
